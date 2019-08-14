@@ -1,4 +1,4 @@
-# stas
+# stats
 Trying to figure out some basic statistics
 
 i_am_stat.py:
