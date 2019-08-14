@@ -2,6 +2,7 @@
 Trying to figure out some basic statistics
 
 i_am_stat.py:
+    Requires Matplotlib, SciPy, NumPy
 
     0. creating random datasets with/without deviation
     1. mean
@@ -21,6 +22,7 @@ i_am_stat.py:
     15.boxplot with matplotlib
 
 stat_basics.py:
+    Requires Matplotlib, SciPy
     
     0. euclidean_distance
     1. manhattan distance
@@ -37,5 +39,6 @@ stat_basics.py:
     10. plot_gradient - plots on matplotlib
     
 Cheatsheet_for_sklearn.py:
+    Requires scikit-learn
 
     subj
